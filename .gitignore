@@ -1,0 +1,9 @@
+# Ignore build and VS stuff
+Debug/
+Release/
+x64/
+x86/
+.vs/
+
+# Ignore user-specific VS settings
+*.user
